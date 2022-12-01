@@ -15,10 +15,17 @@ Not applicable
 
 ## Usage
 
+You can review the webpage by visiting https://mycawesome.github.io/Challenge-Horiseon-wk1/
+
 The webpage has been resrtuctured using the following semantic layout
+
 ![alt text](./assets/images/Screenshot-semantic%20structure.jpg)
+
 You can review the layout of the webape via Devtools using Command+Option+I (macOS) or Control+Shift+I (Windows). Alternatively, I have attached a shot of the code for faster viewing.
+
 ![alt text](./assets/images/code.png)
+
+
 
 ## Credits
 
